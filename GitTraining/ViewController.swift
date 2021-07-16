@@ -16,6 +16,8 @@ class ViewController: UIViewController {
         print("second commit")
         print("third commit")
         print("line shown only in develop branch")
+        
+        print("data in master")
 
     }
 
